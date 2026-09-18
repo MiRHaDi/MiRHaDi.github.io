@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Seyed Hossein Mirhadi
 
-You can use the [editor on GitHub](https://github.com/MiRHaDi/MiRHaDi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Open-source projects and contributions focused on Persian localization, right-to-left interfaces, and developer tools.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+- [Mattermost Persian RTL](https://github.com/MiRHaDi/mattermost-persian-rtl): a webapp plugin for Persian and mixed-direction messages.
+- [Mattermost Persian catalogs](https://github.com/MiRHaDi/mattermost-fa-official-catalogs): source catalogs and validation evidence prepared for the official translation workflow.
+- [Bionic Persian readiness kit](https://github.com/MiRHaDi/bionic-fa-readiness-kit): RTL fixtures and a localization proposal; an official installable language pack is not available from this project.
+- [Hermes ACP agents](https://github.com/MiRHaDi/hermes-acp-agents/tree/feat/gemini-qwen-kimi-acp): provider plugins and integration tests for official CLI interfaces. See the repository for supported environments and verification limits.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributions
 
-```markdown
-Syntax highlighted code block
+- [Persian localization for LM Studio](https://github.com/lmstudio-ai/localization/pull/443)
+- [Persian desktop and dashboard UI for Hermes](https://github.com/NousResearch/hermes-agent/pull/97522)
+- [Persian locale and RTL coverage for AVideo](https://github.com/WWBN/AVideo/pull/10583)
 
-# Header 1
-## Header 2
-### Header 3
+The linked pull requests show the current review and merge status.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MiRHaDi/MiRHaDi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[All repositories on GitHub](https://github.com/MiRHaDi?tab=repositories)
